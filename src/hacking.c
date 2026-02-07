@@ -1,4 +1,4 @@
-#include "hacking.h"
+#include <cstdlib/hacking.h>
 
 // A function to display an error message and then exit
 extern void fatal(char *c_message) {

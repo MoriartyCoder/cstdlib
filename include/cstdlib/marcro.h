@@ -1,5 +1,5 @@
 #ifndef MARCRO_H
-#define MARCRO_
+#define MARCRO_H
 
 // ================
 // STANDARD DEFINES
